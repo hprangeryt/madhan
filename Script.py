@@ -12,7 +12,7 @@ My Name Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies,\n\n👨‍💻 
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://t.me/TamilPrime_LinkZz
+- Source - https://t.me/Dark_World7_4
 
 <b>DEVS:</b>
 - <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
